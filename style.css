@@ -26,6 +26,7 @@ main{
     border-radius: 20px;
     overflow: hidden;
     margin: 40px;
+    box-shadow: 0 20px 20px hsla(223, 47%, 23%, 0.1);
 }
 .thumb{
     width: 100%;
