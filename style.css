@@ -17,7 +17,6 @@ main{
     background-repeat: no-repeat;
     font-size: 16px;
     color: hsl(223, 47%, 23%);
-    border: 1px solid red;
 
 }
 .card{
@@ -49,7 +48,7 @@ p{
 .plan{
     background-color: hsl(225, 100%, 98%);
     padding: 20px;
-    margin-bottom: 16px;
+    margin-bottom: 24px;
     display: flex;
     justify-content: space-between;
     align-items: center;
